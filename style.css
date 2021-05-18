@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color:#00ffff;
+}
+.mynavbar{
+    position: sticky;
+    z-index: 99999;
+    top:0;
+}
+#marqueestyle{
+    background-color:#00ffff
+}
+#S{
+    float: right
+}
+#map{
+    float:left;
+}
+html{
+ scroll-behavior:smooth;    
+}
+.line{
+    height:25px;
+}
